@@ -1,0 +1,2226 @@
+[
+  {
+    "ts": "2025-11-12T16:59:55.247961+00:00",
+    "risk_score": 0.7191735479592438,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.247961+00:00",
+    "risk_score": 0.47055865508022926,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.247961+00:00",
+    "risk_score": 0.5363367529640624,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.247961+00:00",
+    "risk_score": 0.46997096466072474,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.247961+00:00",
+    "risk_score": 0.5094431771290702,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.247961+00:00",
+    "risk_score": 0.41161907124958413,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.247961+00:00",
+    "risk_score": 0.40667204460759837,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.247961+00:00",
+    "risk_score": 0.4050008914901112,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.247961+00:00",
+    "risk_score": 0.2620447812214483,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.247961+00:00",
+    "risk_score": 0.5744919916330226,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.247961+00:00",
+    "risk_score": 0.5454413458090699,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.247961+00:00",
+    "risk_score": 0.33365643873155915,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.247961+00:00",
+    "risk_score": 0.4036245226660982,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.247961+00:00",
+    "risk_score": 0.24895617742113824,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.247961+00:00",
+    "risk_score": 0.49848567045541875,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.247961+00:00",
+    "risk_score": 0.6050157084444434,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.247961+00:00",
+    "risk_score": 0.4070537725301156,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.247961+00:00",
+    "risk_score": 0.30837950917393747,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.39917785056777993,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.3348422384582253,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.4824866364272882,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.675951848478925,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.3666959327694359,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.4094747505627319,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.37683190571748026,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.33550748424507837,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.6636246465470738,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.39206580103535155,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.3433396532443738,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.6369697607825299,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.6582471755046709,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.6119959828199414,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.47426001592848105,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.5195693452767924,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.6067534825629224,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.566989430373053,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.34155283256717056,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.5430116890831581,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.5105006307754394,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.3859129417152836,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.32611837312034264,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.4975248102477495,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.36265939519871615,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.23762215318056928,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.39600450701157003,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.6882417191322557,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.4518060079449847,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.5272766840306073,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.4959007771692622,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.448380503302563,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.4030049017014906,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.3254770690756515,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.2576522358562039,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.38588264590509885,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.48667506065117333,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.48933895257892224,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.3388346686991384,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.5859312770931918,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.5678280097323832,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.4893950378952351,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.6451271885819752,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.4594556769459255,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.4577702120515914,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.5650082775476103,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.602353805014658,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.5326682340558978,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.32636923315164784,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.6119579164127855,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.44122580908857495,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.4179460164651533,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.49522230510385135,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.41090238104300025,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.36983136952744505,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.4043136980681624,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.6134518457445517,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.5506572128092903,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.19777424148507444,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.5126943689731841,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.3201520814120023,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.43053286124584844,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.37829286466558765,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.5289519263554943,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.35179140309013723,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.4747444263516432,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.45583451158575417,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.248989+00:00",
+    "risk_score": 0.39083269792479497,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.44962173876239153,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.5671957428320752,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.29347040322013185,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.4425197870946675,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.5614547504031038,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.5917317747128371,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.30690332736438697,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.6033415926378768,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.38666207960434174,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.3758035123891813,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.6308475470210474,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.3285681152644992,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.36247372057161026,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.5416943202323402,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.3909921246574376,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.45451491112720127,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.3779756614081272,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.6757958451221137,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.3765681856211678,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.4784500040482139,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.5656701001104658,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.5337919322104748,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.4321390477340404,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.6849652534451864,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.6600896173901514,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.3683056007422543,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.2781662630718939,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.27504740285923335,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.4080784123100721,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.2680657233809189,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.6271521667933315,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.30535864239730115,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.287500841725923,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.2526464365051561,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.475143605229662,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.604751014641142,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.4135495342738022,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.3336836548567273,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.4800437808515428,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.4310125570296554,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.42754177179261943,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.442643764984282,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.3799125989715822,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.3367023722793335,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.41150837474462343,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.6232826841169098,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.459185008681353,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.40458598346712654,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.44327323005781916,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.4991996272027242,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.43908548901160904,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.253969+00:00",
+    "risk_score": 0.6396971969932056,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.5183701596972651,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.5590059711074995,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.581272697055729,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.6153968791603428,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.5426069800481623,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.4598567842039356,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.5348573058545142,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.5449211384848881,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.46997135501759474,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.3132870252327138,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.6909061183558631,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.5984998028397999,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.4665917479349804,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.4989185534992519,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.511803354140582,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.5196281482532111,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.29764324010344156,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.4114704589112922,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.40331035165994483,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.49566784588842894,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.6433972449237348,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.49068899724845527,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.5882624824983808,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.26118726483644256,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.6869279914026228,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.3972357516845991,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.644083891525719,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.5004155986140513,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.35263471010021674,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.70565339379362,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.3430320133890484,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.7044264466239465,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.4805625283970241,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.35476636468400974,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.49490545926121193,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.4198568709839271,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.41392929084653285,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.3105914021737639,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.6120920031135757,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.3953685463739163,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.42713334522688606,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.584138562441101,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.5448108509044475,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.3392095865024017,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.3547739608763992,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.47546039692170006,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.44521663990814137,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.6890523684366197,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.7830312392421521,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.38616016301491685,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.692581306989371,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.42751875141553847,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.4231699407942172,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.5435010920336949,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.5646482755686584,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.7306380020313241,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.5621771889107092,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.47277437780850795,
+    "risk_threshold": 0.45,
+    "predicted_label": 1,
+    "crypto_context": {},
+    "crypto_actions": [
+      "Enforce mutual TLS (mTLS) for this client",
+      "Restrict cipher suites to AEAD-only (TLS_AES_* or CHACHA20-POLY1305)",
+      "Rotate session tickets/keys for this connection group",
+      "Require short-lived certificates (<=7 days) until risk subsides",
+      "Quarantine unknown TLS fingerprint: require re-verification"
+    ]
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.21159820296003296,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.3817147327379924,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.254970+00:00",
+    "risk_score": 0.3224225003580052,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T16:59:55.262970+00:00",
+    "risk_score": 0.42981763406910534,
+    "risk_threshold": 0.45,
+    "predicted_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  }
+]

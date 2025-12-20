@@ -1,0 +1,1602 @@
+[
+  {
+    "ts": "2025-11-12T17:08:43.895349+00:00",
+    "risk_score": 0.09928615945742585,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.895349+00:00",
+    "risk_score": 0.08975347156931478,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.895349+00:00",
+    "risk_score": 0.10838082610197927,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.09263820576855052,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.10349364758304479,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.09657383001492134,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.10425729598688238,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.10859818154341871,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.09094673526649534,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.09760712839673476,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.08009864127900178,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.10039951383600187,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.09707908813684336,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.08890521469538656,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.10396333920414488,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.08695851195950866,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.1021886584667294,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.09989513437034735,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.10655570178121614,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.10557960589643198,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.11462845865471687,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.09312226697807041,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.10888964035622453,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.0916920893752941,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.10915944584035879,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.1085074257130957,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.08879123772158978,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.1009975907016322,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.113296246826792,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.10151002827647267,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.08817100594895738,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.08773089342806321,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.12634514825663437,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.10334465194694241,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.09340021750698763,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.10501268859110524,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.10089806548055494,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.10687582931699169,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.896349+00:00",
+    "risk_score": 0.08200432853716275,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.08257206020419473,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.09655735742597844,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.0977809732232505,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.09333793261108722,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.1238943617255945,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10000090069609104,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10384827461482654,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.11088951424916678,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.09742346045270855,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.09152669544722804,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10470100145323015,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.11291481455730185,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.09537240590372612,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.11557950228639227,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.12042254853164798,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10013845469464304,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10460984860654762,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.1086711964372537,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10080352285725278,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10158772857456252,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10841120846782543,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10905442777705619,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.11792879747746467,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.09492538479642318,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.09728440783343457,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.09811310833031268,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.11315093918759994,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.1147605275510746,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10606906749455167,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.108762478503186,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10529949999776568,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.1192076601062622,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.09316699628009664,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.08625963157125174,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10265536848320196,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10102646718439942,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.08545394414562751,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.11370140912605375,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10991868306400532,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.09575435118128192,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.11267952881444251,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10261499359457181,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.11122939009703063,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.09370833192660137,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.09831831101933616,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.0898679227080761,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.09183452061612851,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.11616727464194491,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.08575785819082218,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.09470366585441073,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.09725239212672392,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10498139315775835,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10469847716022691,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.11266458547119879,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.1093754000155813,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.1159958927201232,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.09550735727536601,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.1123233646208836,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.1079581221405871,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10212164869212875,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.08964878767818059,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10487891354103257,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10241162161597356,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.08412775157923727,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.08759161600665488,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10495501545509184,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.10930874600866011,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.09299117279194892,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.09786212186853113,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.897352+00:00",
+    "risk_score": 0.08232881347388502,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.08749695725173623,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10423211043227189,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10643489998661372,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.08589418019772747,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.11645050206282792,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09830927964680959,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10408881845687007,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.11243510754981897,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09959408939047078,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.11073083287380006,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.1189048081174286,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10562087452144907,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09347436967073562,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.08589887286191848,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.1025635393741606,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.11001061132497235,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09645684784799048,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10411024541351735,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10229185316900502,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10691838323375502,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09040711804221897,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09159862639479585,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10299784057933811,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10734627478591935,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10426307415718497,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10550601133970279,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09626675813857431,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10655581732715372,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10437129911742206,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.1081909728795354,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.12123241898613674,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09391128686700229,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09943097336753341,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.1053290735040738,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.11435222836828687,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10508480049026608,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.08034520345942978,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09250382470371334,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.1038638065948842,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.08419042723403597,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10885200167956552,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10466710289201937,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10552965935569265,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.1056376267079899,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10430011560400232,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.11117351881557432,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09426253832591967,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10007211668668041,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09334512556468659,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09421880941478022,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10581880781024251,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.08164360011662344,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.0944893280635301,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10062295060270436,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.094489723472576,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10338752801951222,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.08209620644773674,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09942474494208636,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.08690577089748201,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09773693418838555,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10604481842136396,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09878977501192947,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.088164695393382,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09368070979866572,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09065360640145752,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.11622287989427338,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10033001984277763,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.11815982879408943,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.09586029794246714,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.11991659140262874,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.898350+00:00",
+    "risk_score": 0.10430703329776993,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.09225939532872574,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.10672649900513255,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.10154736728699562,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.09904471101717933,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.10330189223255366,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.09793209953750472,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.1045979115810859,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.10822876671735215,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.1066210512911791,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.08291736069601441,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.11109616983888398,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.09555649380136305,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.10400870082975067,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.08010421594612308,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.0939366462863672,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.10094836501036113,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.10714411689795793,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.1072720208420654,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.09901582907440454,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  },
+  {
+    "ts": "2025-11-12T17:08:43.899352+00:00",
+    "risk_score": 0.1170903376321593,
+    "risk_threshold": 0.45,
+    "pred_label": 0,
+    "crypto_context": {},
+    "crypto_actions": []
+  }
+]
