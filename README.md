@@ -1,7 +1,5 @@
 # Integrating Explainable AI Techniques for Anomaly Detection in Encrypted Traffic
 
-## 🎓 Course Project  
-This project was developed as part of the **Course Project** at **Vellore Institute of Technology** guided by [Aswani Kumar Cherukuri](https://github.com/cherukuri5). The aim was to integrate **Machine Learning** and **Explainable AI (SHAP)** techniques to detect anomalies in encrypted network traffic. 
 
 ## Introduction
 
